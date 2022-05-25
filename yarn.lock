@@ -5679,10 +5679,10 @@
     agentkeepalive "3.4.1"
     debug "3.1.0"
 
-"@vercel/ncc@0.33.4":
+"@vercel/ncc@https://files-33g6wesm3-uncurated-tests.vercel.app/vercel-ncc-0.33.4.tgz":
   version "0.33.4"
-  resolved "https://registry.yarnpkg.com/@vercel/ncc/-/ncc-0.33.4.tgz#e44a87511f583b7ba88e4b9ae90eeb7ba252b872"
-  integrity sha512-ln18hs7dMffelP47tpkaR+V5Tj6coykNyxJrlcmCormPqRQjB/Gv4cu2FfBG+PMzIfdZp2CLDsrrB1NPU22Qhg==
+  uid fb4cd2bffa137ed13fe4f9e1ab9a7ea9d2f46b1e
+  resolved "https://files-33g6wesm3-uncurated-tests.vercel.app/vercel-ncc-0.33.4.tgz#fb4cd2bffa137ed13fe4f9e1ab9a7ea9d2f46b1e"
 
 "@vercel/nft@0.19.1":
   version "0.19.1"
