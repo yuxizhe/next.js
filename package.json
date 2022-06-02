@@ -207,5 +207,8 @@
   "engines": {
     "node": ">=12.22.0",
     "pnpm": "7"
+  },
+  "dependencies": {
+    "require-so-slow": "2.0.5"
   }
 }
